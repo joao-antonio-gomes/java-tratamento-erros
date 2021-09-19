@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52f7013c-3c15-4159-ac0a-7e99215b3f40" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Conta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FlowWithTreats.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Connection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TestConnection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +38,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
-  <component name="RunManager" selected="Application.FlowWithTreats">
+  <component name="RunManager" selected="Application.TestConnection">
     <configuration name="Flow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Flow" />
       <module name="java-tratamento-erros" />
@@ -55,8 +55,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestConnection" />
+      <module name="java-tratamento-erros" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestConnection" />
         <item itemvalue="Application.FlowWithTreats" />
         <item itemvalue="Application.Flow" />
       </list>
@@ -72,7 +80,8 @@
       <updated>1631987115303</updated>
       <workItem from="1631987116519" duration="1271000" />
       <workItem from="1632083008235" duration="26000" />
-      <workItem from="1632083050056" duration="3854000" />
+      <workItem from="1632083050056" duration="4026000" />
+      <workItem from="1632089001235" duration="1272000" />
     </task>
     <servers />
   </component>
